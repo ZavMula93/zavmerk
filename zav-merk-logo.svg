@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 140" role="img" aria-labelledby="title desc">
+  <title id="title">Zav Merk logo</title>
+  <desc id="desc">Sharp monogram logo for wrestler Zav Merk.</desc>
+  <rect width="420" height="140" rx="18" fill="#0b0e11"/>
+  <path d="M34 28h112v14L73 98h74v14H28V98l72-56H34z" fill="#d7ff3f"/>
+  <path d="M171 112V28h19l24 31 24-31h19v84h-18V56l-25 32-25-32v56z" fill="#f4f7f8"/>
+  <path d="M285 112V28h83v14h-64v20h54v14h-54v22h66v14z" fill="#f4f7f8"/>
+  <path d="M381 112V28h18v34l34-34h24l-39 37 42 47h-24l-31-35-6 6v29z" fill="#f4f7f8"/>
+  <path d="M28 120h364" stroke="#d7ff3f" stroke-width="4" stroke-linecap="round"/>
+</svg>
